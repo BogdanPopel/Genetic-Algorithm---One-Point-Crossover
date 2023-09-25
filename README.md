@@ -2,9 +2,7 @@
 
 Genetic algorithm aimed at identifying the maximum of a positive function within a specific domain, with the predetermined function included in the code: 
 
-double fitness(double x){
-        return pow(x, 2)*this->parameters[0] + x*this->parameters[1] + this->parameters[2];
-    } 
+$`F(x) = x^2 * a + x * b + c`$
 
 ## Input data:
 
